@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+d:\мета дубров проекты\laba2\laba2\main.cpp(183): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba2.vcxproj -> D:\Мета Дубров Проекты\Laba2\Debug\Laba2.exe
+  Laba2.vcxproj -> D:\Мета Дубров Проекты\Laba2\Debug\Laba2.pdb (Full PDB)
